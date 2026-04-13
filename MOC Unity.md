@@ -15,3 +15,7 @@ type: moc
 ## Async
 - [[UniTask Notes]]
 
+## Next to write
+- Rendering: culling / batching / draw calls
+- Addressables: memory, loading, profiling
+

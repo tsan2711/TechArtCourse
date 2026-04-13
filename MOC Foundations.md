@@ -15,3 +15,7 @@ type: moc
 - [[Event-Driven Architecture]]
 - [[Dependency Injection]]
 
+## Next to write
+- Composition over inheritance
+- Service Locator (trade-offs)
+
