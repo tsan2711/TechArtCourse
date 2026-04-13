@@ -1,6 +1,11 @@
 ---
 type: unity
 status: stub
+priority: recommended
+prerequisites:
+  - SRP (Single Responsibility Principle)
+  - Dependency Injection
+next: []
 ---
 
 # ScriptableObjects for Data

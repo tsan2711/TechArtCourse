@@ -1,6 +1,10 @@
 ---
 type: concept
 status: stub
+priority: core
+prerequisites:
+  - Dependency Injection
+next: []
 ---
 
 # Event-Driven Architecture

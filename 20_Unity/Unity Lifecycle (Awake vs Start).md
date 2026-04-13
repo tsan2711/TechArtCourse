@@ -1,6 +1,10 @@
 ---
 type: unity
 status: stub
+priority: core
+prerequisites: []
+next:
+  - Caching in Unity
 ---
 
 # Unity Lifecycle (Awake vs Start)

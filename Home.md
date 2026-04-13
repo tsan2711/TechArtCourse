@@ -8,6 +8,7 @@ Practical notes focused on **Unity / Tech Art** and **software architecture**.
 
 ## Start here
 
+- [[Learning Path]] — what to learn first (priority order)
 - [[MOC Unity]] — Unity-specific concepts, performance, async
 - [[MOC Foundations]] — SOLID + architecture fundamentals
 

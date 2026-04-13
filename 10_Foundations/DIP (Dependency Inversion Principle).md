@@ -1,6 +1,12 @@
 ---
 type: concept
 status: stub
+priority: core
+prerequisites:
+  - SRP (Single Responsibility Principle)
+  - ISP (Interface Segregation Principle)
+next:
+  - Dependency Injection
 ---
 
 # DIP (Dependency Inversion Principle)

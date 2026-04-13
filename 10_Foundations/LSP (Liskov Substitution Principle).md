@@ -1,6 +1,10 @@
 ---
 type: concept
 status: stub
+priority: recommended
+prerequisites:
+  - ISP (Interface Segregation Principle)
+next: []
 ---
 
 # LSP (Liskov Substitution Principle)

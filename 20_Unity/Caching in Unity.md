@@ -1,6 +1,11 @@
 ---
 type: unity
 status: stub
+priority: core
+prerequisites:
+  - Unity Lifecycle (Awake vs Start)
+next:
+  - Avoid Update Tax
 ---
 
 # Caching in Unity

@@ -1,6 +1,11 @@
 ---
 type: unity
 status: stub
+priority: core
+prerequisites:
+  - Caching in Unity
+next:
+  - UniTask Notes
 ---
 
 # Avoid Update Tax

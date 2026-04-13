@@ -1,6 +1,11 @@
 ---
 type: concept
 status: stub
+priority: recommended
+prerequisites:
+  - SRP (Single Responsibility Principle)
+  - DIP (Dependency Inversion Principle)
+next: []
 ---
 
 # OCP (Open-Closed Principle)

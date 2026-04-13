@@ -4,16 +4,16 @@ type: moc
 
 # MOC Foundations
 
-## SOLID
-- [[SRP (Single Responsibility Principle)]]
-- [[OCP (Open-Closed Principle)]]
-- [[LSP (Liskov Substitution Principle)]]
-- [[ISP (Interface Segregation Principle)]]
-- [[DIP (Dependency Inversion Principle)]]
+## Core (read first)
+1. [[SRP (Single Responsibility Principle)]] — split responsibilities by “reason to change”
+2. [[ISP (Interface Segregation Principle)]] — avoid fat interfaces; model capabilities
+3. [[DIP (Dependency Inversion Principle)]] — depend on abstractions
+4. [[Dependency Injection]] — how to apply DIP in practice (Unity-friendly)
+5. [[Event-Driven Architecture]] — decouple systems with events
 
-## Architecture
-- [[Event-Driven Architecture]]
-- [[Dependency Injection]]
+## Recommended (after Core)
+- [[OCP (Open-Closed Principle)]] — extend behavior without editing core code
+- [[LSP (Liskov Substitution Principle)]] — keep substitutability; avoid broken inheritance
 
 ## Next to write
 - Composition over inheritance

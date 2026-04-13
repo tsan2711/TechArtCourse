@@ -1,6 +1,10 @@
 ---
 type: unity
 status: stub
+priority: recommended
+prerequisites:
+  - Avoid Update Tax
+next: []
 ---
 
 # UniTask Notes

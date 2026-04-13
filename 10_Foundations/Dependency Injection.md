@@ -1,6 +1,11 @@
 ---
 type: concept
 status: stub
+priority: core
+prerequisites:
+  - DIP (Dependency Inversion Principle)
+next:
+  - Event-Driven Architecture
 ---
 
 # Dependency Injection
