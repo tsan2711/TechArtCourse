@@ -6,24 +6,32 @@ type: home
 
 Practical notes focused on **Unity / Tech Art** and **software architecture**.
 
-## Start here
+> [!info] Start here
+> - [[Learning Path]] (priority order)
+> - [[MOC Unity]]
+> - [[MOC Foundations]]
 
-- [[Learning Path]] — what to learn first (priority order)
-- [[MOC Unity]] — Unity-specific concepts, performance, async
-- [[MOC Foundations]] — SOLID + architecture fundamentals
+> [!tip] Learn next (recommended order)
+> **Foundations**: [[SRP (Single Responsibility Principle)]] → [[ISP (Interface Segregation Principle)]] → [[DIP (Dependency Inversion Principle)]] → [[Dependency Injection]] → [[Event-Driven Architecture]]  
+> **Unity**: [[Unity Lifecycle (Awake vs Start)]] → [[Caching in Unity]] → [[Avoid Update Tax]]
 
-## How this vault is organized
+## Dashboard
 
-- Notes are written in **English**.
-- Prefer **links** (e.g. `[[Dependency Injection]]`) over heavy tagging.
-- Each topic note aims to include:
-  - One-liner
-  - When to use / when NOT to use
-  - Pitfalls
-  - Minimal Unity/C# example (when applicable)
+> [!note] Write next (turn learning into skill)
+> - Pick **one** note from Learning Path and upgrade it from `stub` → `active`
+> - Add: One-liner, When to use / NOT to use, Pitfalls, and a minimal Unity/C# example
+> - Link prerequisites + next steps
 
-## Quick actions
+> [!example] Templates
+> - Use: [[Templates - Topic Note]]
 
-- Open anything: press **Ctrl+O**
-- Create a note: press **Ctrl+N**
+> [!success] Quick actions
+> - Open anything: **Ctrl+O**
+> - Create a note: **Ctrl+N**
+> - Search vault: **Ctrl+Shift+F**
+
+## Vault rules (keep it clean)
+- English notes
+- Prefer `[[links]]` over heavy tags
+- One note per concept (avoid “mega notes”)
 
